@@ -1,3 +1,25 @@
+> [!IMPORTANT]
+> **This repository has moved.** `tokens-protocol` is now part of
+> **[perceptual-protocols](https://github.com/Owl-Listener/perceptual-protocols)** —
+> the whole family in one repo, with one install and one story.
+>
+> ### → [Owl-Listener/perceptual-protocols/tokens-protocol](https://github.com/Owl-Listener/perceptual-protocols/tree/main/tokens-protocol)
+>
+> This repository is archived and read-only. Everything below is preserved so
+> existing links keep resolving, but it is no longer maintained. New work,
+> issues, and pull requests belong in the monorepo.
+>
+> **Where the files went:**
+>
+> | Here | In the monorepo |
+> |---|---|
+> | `tokens.md` | [`tokens-protocol/TOKENS.md`](https://github.com/Owl-Listener/perceptual-protocols/blob/main/tokens-protocol/TOKENS.md) |
+> | `tokens.example.md` | [`tokens-protocol/example-clearline.md`](https://github.com/Owl-Listener/perceptual-protocols/blob/main/tokens-protocol/example-clearline.md) |
+> | — | [`tokens-protocol/FORMAT.md`](https://github.com/Owl-Listener/perceptual-protocols/blob/main/tokens-protocol/FORMAT.md) — new: the format spec |
+> | — | [`tokens-protocol/PROMPT.md`](https://github.com/Owl-Listener/perceptual-protocols/blob/main/tokens-protocol/PROMPT.md) — new: generate a `tokens.md` from tokens you already have |
+
+---
+
 # tokens-protocol
 
 Agents can read your token values. They can't read your intent. `tokens.md` fills the gap.
